@@ -9,12 +9,12 @@ let app = '';
 
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyAPO4o2IFz6XP6pngXCIsgfPrxAvSzPA4I",
-  authDomain: "login-firebase-demo.firebaseapp.com",
-  databaseURL: "https://login-firebase-demo.firebaseio.com",
-  projectId: "login-firebase-demo",
-  storageBucket: "login-firebase-demo.appspot.com",
-  messagingSenderId: "609306869040"
+  apiKey: "AIzaSyAHQTIcJdAAy2cMjmiTSFBnhNLjWL_W74E",
+    authDomain: "login-firebase-vue.firebaseapp.com",
+    databaseURL: "https://login-firebase-vue.firebaseio.com",
+    projectId: "login-firebase-vue",
+    storageBucket: "login-firebase-vue.appspot.com",
+    messagingSenderId: "214529547258"
 };
 
 firebase.initializeApp(config);
